@@ -12,7 +12,7 @@ A Decentralized application (dApp) to give early supporters access to a whitelis
 
 ## Tech Stack
 
-**Front-End:** Next.js, JavaScript
+**Front-End:** Next.js, JavaScript, Ether.js
 
 **Back-End:** Hardhat, Solidity
 
