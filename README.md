@@ -19,12 +19,7 @@ A Decentralized application (dApp) to give early supporters access to a whitelis
 
 ## Screenshots
 
-![App Screenshot 1](https://i.imgur.com/zwJL6gn.png)
-
-![App Screenshot 2](https://i.imgur.com/R3bQv8S.png)
-
-![App Screenshot 3](https://i.imgur.com/LZRY3Bt.png)
-
+![App Screenshot 1](https://i.imgur.com/xwMRVNV.png)
 
 ## Run Locally
 
